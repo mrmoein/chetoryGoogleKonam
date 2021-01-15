@@ -1,5 +1,5 @@
 # chetoryGoogleKonam
-taken from "let me googe that for you" sites
+taken from "let me google that for you" sites
 
 If you are tired of answering other people's questions, let me answer them 😀
 
