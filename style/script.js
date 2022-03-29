@@ -1,4 +1,4 @@
-var url = 'https://cgk.mr-moein.ir?q='; // dir URL
+var url = document.URL + '?q='; // dir URL
 var google = "http://google.com/search?q=";
 var searchParams = new URLSearchParams(window.location.search);
 
