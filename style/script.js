@@ -10,6 +10,8 @@ var form = $("#form")
 var link_input = $('#link-input');
 var copy_button = $('#copy-link');
 
+$(".googleImg-container a").attr("href", url)
+
 if (searchParams.has('q')) {
     var q = searchParams.get('q');
     setTimeout(function () {
